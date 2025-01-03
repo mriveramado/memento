@@ -17,4 +17,5 @@ Works in progress:
 - Interactions: All references to this feature have been commented out because it causes bugs with other persistent data. The beta testing video is included below.
 - Brain Games: new brain games are still in development.
 
+Youtube link to demo:
 [![Watch the video](https://www.youtube.com/shorts/n77a3LQ58fA/0.jpg)](https://www.youtube.com/shorts/n77a3LQ58fA)
