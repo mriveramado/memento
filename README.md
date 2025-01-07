@@ -1,5 +1,5 @@
 # Memento App
-This is the beta of the Memento App.
+This is the alpha testing of the Memento App.
 
 Description written by Matias Riveros-Amado
 
